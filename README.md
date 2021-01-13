@@ -10,6 +10,8 @@
 
 **strong arguments**
 
+__strong 2__
+
 Use the `printf()` function.
 
     pre
